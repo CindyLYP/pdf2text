@@ -6,10 +6,10 @@ __pycache__/
 # C extensions
 *.so
 # project files
-input/
+input/*
 output/text/*
 output/image/*
-
+.DS_Store
 # Distribution / packaging
 .Python
 build/

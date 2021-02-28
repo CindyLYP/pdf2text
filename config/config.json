@@ -1,6 +1,6 @@
 {
-    "app_id": "",
-    "secret_key": "",
+    "app_id": "20190325000280843",
+    "secret_key": "WxHPetYW2efiTybujdTX",
     "source_lang": "en",
     "target_lang": "zh",
     "input_dir": "./input",
