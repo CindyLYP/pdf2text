@@ -1,0 +1,9 @@
+{
+    "app_id": "",
+    "secret_key": "",
+    "source_lang": "en",
+    "target_lang": "zh",
+    "input_dir": "./input",
+    "output_image": "./output/image",
+    "output_text": "./output/text"
+}
